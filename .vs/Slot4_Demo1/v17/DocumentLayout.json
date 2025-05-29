@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FPT\\PRN232\\Slot4_Demo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C65560FB-08F5-4133-9A94-33C66E7E061A}|Slot4_Demo1\\Slot4_Demo1.csproj|e:\\fpt\\prn232\\slot4_demo1\\slot4_demo1\\odatamodelbuilderconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65560FB-08F5-4133-9A94-33C66E7E061A}|Slot4_Demo1\\Slot4_Demo1.csproj|solutionrelative:slot4_demo1\\odatamodelbuilderconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65560FB-08F5-4133-9A94-33C66E7E061A}|Slot4_Demo1\\Slot4_Demo1.csproj|e:\\fpt\\prn232\\slot4_demo1\\slot4_demo1\\controllers\\gadgetsodatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65560FB-08F5-4133-9A94-33C66E7E061A}|Slot4_Demo1\\Slot4_Demo1.csproj|solutionrelative:slot4_demo1\\controllers\\gadgetsodatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65560FB-08F5-4133-9A94-33C66E7E061A}|Slot4_Demo1\\Slot4_Demo1.csproj|e:\\fpt\\prn232\\slot4_demo1\\slot4_demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65560FB-08F5-4133-9A94-33C66E7E061A}|Slot4_Demo1\\Slot4_Demo1.csproj|solutionrelative:slot4_demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65560FB-08F5-4133-9A94-33C66E7E061A}|Slot4_Demo1\\Slot4_Demo1.csproj|e:\\fpt\\prn232\\slot4_demo1\\slot4_demo1\\myworlddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65560FB-08F5-4133-9A94-33C66E7E061A}|Slot4_Demo1\\Slot4_Demo1.csproj|solutionrelative:slot4_demo1\\myworlddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65560FB-08F5-4133-9A94-33C66E7E061A}|Slot4_Demo1\\Slot4_Demo1.csproj|e:\\fpt\\prn232\\slot4_demo1\\slot4_demo1\\controllers\\gadgetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65560FB-08F5-4133-9A94-33C66E7E061A}|Slot4_Demo1\\Slot4_Demo1.csproj|solutionrelative:slot4_demo1\\controllers\\gadgetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65560FB-08F5-4133-9A94-33C66E7E061A}|Slot4_Demo1\\Slot4_Demo1.csproj|e:\\fpt\\prn232\\slot4_demo1\\slot4_demo1\\models\\gadgets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65560FB-08F5-4133-9A94-33C66E7E061A}|Slot4_Demo1\\Slot4_Demo1.csproj|solutionrelative:slot4_demo1\\models\\gadgets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65560FB-08F5-4133-9A94-33C66E7E061A}|Slot4_Demo1\\Slot4_Demo1.csproj|e:\\fpt\\prn232\\slot4_demo1\\slot4_demo1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C65560FB-08F5-4133-9A94-33C66E7E061A}|Slot4_Demo1\\Slot4_Demo1.csproj|solutionrelative:slot4_demo1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GadgetsOdataController.cs",
+              "DocumentMoniker": "E:\\FPT\\PRN232\\Slot4_Demo1\\Slot4_Demo1\\Controllers\\GadgetsOdataController.cs",
+              "RelativeDocumentMoniker": "Slot4_Demo1\\Controllers\\GadgetsOdataController.cs",
+              "ToolTip": "E:\\FPT\\PRN232\\Slot4_Demo1\\Slot4_Demo1\\Controllers\\GadgetsOdataController.cs",
+              "RelativeToolTip": "Slot4_Demo1\\Controllers\\GadgetsOdataController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T04:27:50.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ODataModelBuilderConfig.cs",
+              "DocumentMoniker": "E:\\FPT\\PRN232\\Slot4_Demo1\\Slot4_Demo1\\ODataModelBuilderConfig.cs",
+              "RelativeDocumentMoniker": "Slot4_Demo1\\ODataModelBuilderConfig.cs",
+              "ToolTip": "E:\\FPT\\PRN232\\Slot4_Demo1\\Slot4_Demo1\\ODataModelBuilderConfig.cs",
+              "RelativeToolTip": "Slot4_Demo1\\ODataModelBuilderConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T04:21:12.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GadgetsController.cs",
+              "DocumentMoniker": "E:\\FPT\\PRN232\\Slot4_Demo1\\Slot4_Demo1\\Controllers\\GadgetsController.cs",
+              "RelativeDocumentMoniker": "Slot4_Demo1\\Controllers\\GadgetsController.cs",
+              "ToolTip": "E:\\FPT\\PRN232\\Slot4_Demo1\\Slot4_Demo1\\Controllers\\GadgetsController.cs",
+              "RelativeToolTip": "Slot4_Demo1\\Controllers\\GadgetsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T04:15:22.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyWorldDbContext.cs",
+              "DocumentMoniker": "E:\\FPT\\PRN232\\Slot4_Demo1\\Slot4_Demo1\\MyWorldDbContext.cs",
+              "RelativeDocumentMoniker": "Slot4_Demo1\\MyWorldDbContext.cs",
+              "ToolTip": "E:\\FPT\\PRN232\\Slot4_Demo1\\Slot4_Demo1\\MyWorldDbContext.cs",
+              "RelativeToolTip": "Slot4_Demo1\\MyWorldDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T04:11:36.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gadgets.cs",
+              "DocumentMoniker": "E:\\FPT\\PRN232\\Slot4_Demo1\\Slot4_Demo1\\Models\\Gadgets.cs",
+              "RelativeDocumentMoniker": "Slot4_Demo1\\Models\\Gadgets.cs",
+              "ToolTip": "E:\\FPT\\PRN232\\Slot4_Demo1\\Slot4_Demo1\\Models\\Gadgets.cs",
+              "RelativeToolTip": "Slot4_Demo1\\Models\\Gadgets.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T04:11:02.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\FPT\\PRN232\\Slot4_Demo1\\Slot4_Demo1\\appsettings.json",
+              "RelativeDocumentMoniker": "Slot4_Demo1\\appsettings.json",
+              "ToolTip": "E:\\FPT\\PRN232\\Slot4_Demo1\\Slot4_Demo1\\appsettings.json",
+              "RelativeToolTip": "Slot4_Demo1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T04:10:11.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\FPT\\PRN232\\Slot4_Demo1\\Slot4_Demo1\\Program.cs",
+              "RelativeDocumentMoniker": "Slot4_Demo1\\Program.cs",
+              "ToolTip": "E:\\FPT\\PRN232\\Slot4_Demo1\\Slot4_Demo1\\Program.cs",
+              "RelativeToolTip": "Slot4_Demo1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T04:10:08.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

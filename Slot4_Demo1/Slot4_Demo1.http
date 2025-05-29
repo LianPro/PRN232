@@ -1,0 +1,6 @@
+@Slot4_Demo1_HostAddress = http://localhost:5182
+
+GET {{Slot4_Demo1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
