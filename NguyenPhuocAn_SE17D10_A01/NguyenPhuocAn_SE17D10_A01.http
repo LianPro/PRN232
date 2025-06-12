@@ -1,0 +1,6 @@
+@NguyenPhuocAn_SE17D10_A01_HostAddress = http://localhost:5047
+
+GET {{NguyenPhuocAn_SE17D10_A01_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
